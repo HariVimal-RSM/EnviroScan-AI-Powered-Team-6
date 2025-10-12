@@ -1,4 +1,6 @@
 # EnviroScan-AI-Powered-Team-6 
+
+# The ouputs :-
 [OutPuts.pdf](https://github.com/user-attachments/files/22872439/OutPuts.pdf)
 
 # Website URL (Deployment link):
